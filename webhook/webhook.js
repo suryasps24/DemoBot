@@ -108,4 +108,4 @@ async function webhook(request, response) {
   }
   response.send(jsonResponse);
 }
-module.exports = webhook;
+module.exports = webhook
